@@ -1,5 +1,6 @@
 ### Hi there 👋
-#Pranjal Kharwade
+Pranjal Kharwade
+
 I'm Pranjal Kharwade from Nagpur.
 I'm currently in 2nd year studying in G.H.Raisoni College of Engineering and Management.
 I'm learning python,css, Java script.
