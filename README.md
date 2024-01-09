@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+#Pranjal Kharwade
+I'm Pranjal Kharwade from Nagpur.
+I'm currently in 2nd year studying in G.H.Raisoni College of Engineering and Management.
+I'm learning python,css, Java script.
 <!--
 **pranjal3007/pranjal3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
