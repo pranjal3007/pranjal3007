@@ -1,45 +1,51 @@
 # Hi there, I'm Pranjal Kharwade 👋
 
-🎓 Final-year Computer Science Engineering (AI) student passionate about **Data Analytics, Machine Learning, and Business Intelligence**.
+🎓 Computer Science Engineering Graduate (Artificial Intelligence) passionate about **Data Analytics, Web Development, Machine Learning, and Business Intelligence**.
 
-I enjoy turning raw data into meaningful insights by combining **SQL, Python, Excel, and Power BI**. My goal is to solve real-world business problems through data-driven decision-making and continuously improve my analytical skills by building practical projects.
+I enjoy transforming raw data into actionable insights and building modern, user-friendly web applications. My interests lie at the intersection of **data, AI, and software development**, where I can create practical solutions for real-world challenges.
 
 ## 🚀 About Me
 
 * 📊 Aspiring Data Analyst
-* 🐍 Skilled in Python for data analysis and automation
-* 🗄️ Strong foundation in SQL and database management
-* 📈 Creating interactive dashboards with Power BI
-* 🤖 Interested in Machine Learning and Predictive Analytics
-* 🌱 Currently building an end-to-end Data Analytics portfolio
+* 💻 Frontend Web Developer
+* 🤖 AI & Machine Learning Enthusiast
+* 📈 Passionate about Business Intelligence and Data Visualization
+* 🌱 Continuously learning and building real-world projects
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming Languages
 
 * Python
 * SQL
+* JavaScript
 * C++
 
-**Data Analytics**
+### Frontend Development
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Bootstrap
+* Tailwind CSS
+
+### Data Analytics & Machine Learning
 
 * Pandas
 * NumPy
 * Matplotlib
 * Scikit-learn
-
-**Visualization**
-
 * Power BI
 * Microsoft Excel
 
-**Databases**
+### Databases
 
 * PostgreSQL
 * MySQL
 * SQLite
 
-**Tools**
+### Tools
 
 * Git
 * GitHub
@@ -51,41 +57,53 @@ I enjoy turning raw data into meaningful insights by combining **SQL, Python, Ex
 ### 🏥 Hospital Patient Readmission Prediction
 
 * Built an end-to-end machine learning model to predict hospital readmissions.
-* Performed data cleaning, exploratory data analysis, feature engineering, and model evaluation.
-* Created an interactive Power BI dashboard to visualize healthcare insights.
+* Performed data preprocessing, exploratory data analysis, feature engineering, and model evaluation.
+* Developed an interactive Power BI dashboard for healthcare insights.
 
 ### 📈 Sales Performance Analytics Dashboard
 
 * Analyzed retail sales data using SQL and Python.
-* Built Power BI dashboards to track KPIs, sales trends, customer behavior, and regional performance.
-* Generated business insights to support data-driven decision-making.
+* Built interactive Power BI dashboards to track KPIs, customer behavior, and regional performance.
+* Delivered business insights through data visualization.
+
+### 🤟 Sign Language Recognition System
+
+* Developed a real-time Indian Sign Language digit recognition system using Computer Vision and Machine Learning.
+* Implemented gesture detection and classification for digits (0–9).
+* Focused on improving communication accessibility through AI-powered recognition.
+
+### 🚌 PMPML Bus Web Application
+
+* Built a responsive web application to simplify city bus travel.
+* Implemented route search, multilingual support, and a user-friendly interface.
+* Developed using modern web technologies with a focus on usability and accessibility.
 
 ### 💳 Credit Card Fraud Detection *(In Progress)*
 
-* Developing a machine learning model to detect fraudulent transactions.
-* Applying feature engineering, class balancing, and performance evaluation techniques.
+* Developing a machine learning model to identify fraudulent transactions.
+* Applying feature engineering, data balancing, and model evaluation techniques.
 
 ## 📚 Currently Learning
 
 * Advanced SQL
-* Data Warehousing
-* Statistics for Data Analytics
+* Power BI
 * Machine Learning
-* Data Engineering Fundamentals
+* Data Warehousing
+* Data Engineering
+* Advanced React Ecosystem
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
-* Build 10+ real-world Data Analytics projects
-* Strengthen SQL and Power BI expertise
-* Contribute to open-source projects
-* Secure a Data Analyst role
+* Build impactful Data Analytics and AI projects
+* Strengthen SQL, Python, and Power BI expertise
+* Contribute to Open Source
+* Grow as a Data Analyst and Software Developer
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/pranjal3007
-* LinkedIn: *(Add your LinkedIn profile here)*
+* LinkedIn: https://www.linkedin.com/in/pranjal-kharwade-795k36/
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-
+⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories, check out my projects, and connect with me. Let's build something amazing together!**
