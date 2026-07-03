@@ -1,15 +1,11 @@
 # Hi 👋, I'm Pranjal Kharwade
 
-<h3 align="center">🚀 Data Analyst | AI Enthusiast | Frontend Developer</h3>
+<h3 align="center">🚀 Data Analyst | AI Enthusiast | Web Developer</h3>
 
 <p align="center">
-Passionate about transforming data into insights and building impactful web applications with modern technologies.
-</p>
+🎓 Computer Science Engineering Graduate (Artificial Intelligence) passionate about Data Analytics, Web Development, Machine Learning, and Business Intelligence.
 
-<p align="center">
-  <a href="https://github.com/pranjal3007">
-    <img src="https://komarev.com/ghpvc/?username=pranjal3007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+I enjoy transforming raw data into actionable insights and building modern, user-friendly web applications. My interests lie at the intersection of data, AI, and software development, where I can create practical solutions for real-world challenges.
 </p>
 
 ---
