@@ -107,24 +107,6 @@ Passionate about transforming data into insights and building impactful web appl
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranjal3007&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal3007&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal3007&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🏆 Goals
 
 * 📚 Master SQL, Python & Power BI
