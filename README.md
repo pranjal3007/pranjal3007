@@ -2,9 +2,8 @@
 
 <h3 align="center">🚀 Data Analyst | AI Enthusiast | Web Developer</h3>
 
-<p align="center">
-🎓 Computer Science Engineering Graduate (Artificial Intelligence) passionate about Data Analytics, Web Development, Machine Learning, and Business Intelligence.
 
+🎓 Computer Science Engineering Graduate (Artificial Intelligence) passionate about Data Analytics, Web Development, Machine Learning, and Business Intelligence
 I enjoy transforming raw data into actionable insights and building modern, user-friendly web applications. My interests lie at the intersection of data, AI, and software development, where I can create practical solutions for real-world challenges.
 </p>
 
